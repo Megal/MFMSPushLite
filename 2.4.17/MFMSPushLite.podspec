@@ -10,7 +10,7 @@ MFMSPushLite - library for sending push notification on iOS
   s.homepage     = "http://EXAMPLE/MFMSPushLite"
   s.author       = { "Anton Bulankin" => "abulankin@mfms.ru" }
   s.platforms           = { :ios => "8.0" }  
-  s.source              = { :http => 'https://raw.githubusercontent.com/Megal/MFMSPushLite/master/2.4.17/mfms-push-lite-2.4.17-universal.zip' }
+  s.source              = { :http => 'https://github.com/Megal/MFMSPushLite/raw/master/2.4.17/mfms-push-lite-2.4.17-universal.zip' }
   s.source_files        = 'MFMSPushLite.framework/**/*.h'
   s.public_header_files = 'MFMSPushLite.framework/**/*.h'
   s.vendored_frameworks = 'MFMSPushLite.framework'
